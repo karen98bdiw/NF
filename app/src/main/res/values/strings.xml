@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NF</string>
+    <string name="all_tags">All Tags</string>
+    <string name="favorites">Favorites</string>
+    <string name="tags">Tags</string>
+    <string name="cards">Cards</string>
+    <string name="settings">setings</string>
+    <string name="newtag">setings</string>
+    <string name="search">setings</string>
+    <string name="add">setings</string>
+</resources>
