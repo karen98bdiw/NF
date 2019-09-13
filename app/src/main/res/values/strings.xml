@@ -5,7 +5,13 @@
     <string name="tags">Tags</string>
     <string name="cards">Cards</string>
     <string name="settings">setings</string>
-    <string name="newtag">setings</string>
-    <string name="search">setings</string>
-    <string name="add">setings</string>
+    <string name="newtag">new tag</string>
+    <string name="search">search</string>
+    <string name="add">add</string>
+    <string name="empty_list_tittle">Empty List</string>
+    <string name="empty_favorite_list_tittle">Empty Favorite List</string>
+    <string name="empty_card_list_description">You can add cards here by tapping on Plus icon</string>
+    <string name="empty_tags_list_description">You can add tags here by tapping on Plus icon</string>
+    <string name="empty_cards_favorite_list_description">You can add cards here by tapping on Star icon</string>
+    <string name="empty_tags_favorite_list_description">You can add tags here by tapping on Star icon</string>
 </resources>

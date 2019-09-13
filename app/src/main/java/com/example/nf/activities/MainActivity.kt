@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         supportActionBar!!.setDisplayShowTitleEnabled(false)
         Utils.constructMainViewPager(viewPager,supportFragmentManager)
         tabLayout.setupWithViewPager(viewPager)
-        bottomNavigationView.itemIconTintList = null
+        bottomNavaigationView.itemIconTintList = null
 
 
     }

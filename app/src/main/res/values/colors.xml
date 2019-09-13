@@ -5,4 +5,8 @@
     <color name="colorAccent">#D81B60</color>
     <color name="tablayoutbackgroundcolor">#008577</color>
     <color name="mainColorPinkTheme">#F14A70</color>
+    <color name="whitish">#FFFFFF</color>
+    <color name="darkerWhite">#D8D2D2</color>
+    <color name="black">#000000</color>
+
 </resources>
